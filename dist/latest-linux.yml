@@ -1,0 +1,9 @@
+version: 0.1.0
+files:
+  - url: electron-react-0.1.0-x86_64.AppImage
+    sha512: Vm8UEbnLnsnmYjeINMyz7c7ItZeSrVo+J9rzovMh7FdcROOcr8CnBHTB9P+kg0624qNp4Dfky/40Um/Xu8QNPA==
+    size: 50854338
+    blockMapSize: 54022
+path: electron-react-0.1.0-x86_64.AppImage
+sha512: Vm8UEbnLnsnmYjeINMyz7c7ItZeSrVo+J9rzovMh7FdcROOcr8CnBHTB9P+kg0624qNp4Dfky/40Um/Xu8QNPA==
+releaseDate: '2019-06-07T17:33:50.584Z'

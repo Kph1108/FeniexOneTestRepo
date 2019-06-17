@@ -1,0 +1,19 @@
+directories:
+  output: dist
+  buildResources: assets
+files:
+  - filter:
+      - build/**/*
+      - ./build/**/*
+      - ./index.html
+      - ./src/*.js
+extraMetadata:
+  main: build/electron.js
+appId: com.example.electron-cra
+linux:
+  target:
+    - deb
+    - AppImage
+  category: Development
+extends: react-cra
+electronVersion: 1.8.8
