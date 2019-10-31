@@ -12,7 +12,7 @@
     "prettier": "1.16.4",
     "react-scripts": "0.8.5",
     "wait-on": "^3.2.0",
-    "yarn": "^1.16.0"
+    "yarn": "^1.17.3"
   },
   "dependencies": {
     "debug": "^4.1.1",
